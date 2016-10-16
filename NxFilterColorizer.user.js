@@ -1,12 +1,19 @@
 // ==UserScript==
 // @name         NxFilterColorizer
-// @namespace    http://codeministry.ch
-// @version      0.1
-// @description  Colors lines on NxFilter HTML request reports by whether they are reported as blocked or not (Y/N)
+// @namespace    NxFilterColorizer
+// @version      0.101
+// @description  Colors lines on NxFilter HTML request reports by whether they are reported as blocked or not (Y/N).
+// @copyright    marcel@codeministry.ch, GPLv3 License
 // @author       marcel@codeministry.ch
 // @match        *nxfilter*/logging,request.jsp
 // @grant        none
+// @downloadURL https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
+// @updateURL   https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
 // ==/UserScript==
+
+// ---------------------------------------
+// Changelog
+// ---------------------------------------
 
 (function() {
     'use strict';
