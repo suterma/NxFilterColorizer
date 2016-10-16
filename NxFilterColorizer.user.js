@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NxFilterColorizer
 // @namespace    NxFilterColorizer
-// @version      0.101
+// @version      0.102
 // @description  Colors lines on NxFilter HTML request reports by whether they are reported as blocked or not (Y/N).
 // @copyright    marcel@codeministry.ch, GPLv3 License
 // @author       marcel@codeministry.ch
@@ -13,7 +13,7 @@
 
 // ---------------------------------------
 // Changelog
-// 0.101: Fixed URL matching
+// 0.102: Fixed URL matching
 // ---------------------------------------
 
 (function() {
