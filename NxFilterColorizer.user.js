@@ -5,7 +5,7 @@
 // @description  Colors lines on NxFilter HTML request reports by whether they are reported as blocked or not (Y/N).
 // @copyright    marcel@codeministry.ch, GPLv3 License
 // @author       marcel@codeministry.ch
-// @match        *nxfilter*/logging,request.jsp
+// @match        https://*nxfilter*/logging,request.jsp
 // @grant        none
 // @downloadURL https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
 // @updateURL   https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
@@ -13,6 +13,7 @@
 
 // ---------------------------------------
 // Changelog
+// 0.101: Fixed URL matching
 // ---------------------------------------
 
 (function() {
