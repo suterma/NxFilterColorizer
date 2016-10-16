@@ -6,7 +6,7 @@
 // @copyright    marcel@codeministry.ch, GPLv3 License
 // @author       marcel@codeministry.ch
 // TODO change the include value to your needs. The give value requires a nxfilter subdomain and the typical report path.
-// @include      https://*nxfilter*.*/logging,request.jsp
+// @include      https://*nxfilter*/logging,request.jsp
 // @grant        none
 // @downloadURL  https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
 // @updateURL    https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
