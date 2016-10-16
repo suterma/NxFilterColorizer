@@ -1,19 +1,20 @@
 // ==UserScript==
 // @name         NxFilterColorizer
-// @namespace    NxFilterColorizer
-// @version      0.102
+// @namespace    https://github.com/suterma/
+// @version      0.103
 // @description  Colors lines on NxFilter HTML request reports by whether they are reported as blocked or not (Y/N).
 // @copyright    marcel@codeministry.ch, GPLv3 License
 // @author       marcel@codeministry.ch
-// @match        https://*nxfilter*/logging,request.jsp
+// TODO change the include value to your needs. The give value requires a nxfilter subdomain and the typical report path.
+// @include      https://*nxfilter*.*/logging,request.jsp
 // @grant        none
-// @downloadURL https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
-// @updateURL   https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
+// @downloadURL  https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
+// @updateURL    https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js
 // ==/UserScript==
 
 // ---------------------------------------
 // Changelog
-// 0.102: Fixed URL matching
+// 0.103: Fixed URL matching
 // ---------------------------------------
 
 (function() {
