@@ -9,4 +9,4 @@ A user script, that colorizes lines on NxFilter HTML request reports by whether 
 1. Accept the installation. Ready.
 
 # Usage
-After installation, you can it on the [official demo setup of NxFilter](http://115.71.232.159/logging,request.jsp), or on your own NxFilter installation. If your installation runs on a subdomain with the term "nxfilter" in it, it will work out of the box, otherwise you need to adapt the include URL value to your needs.
+After installation, you can use it on the [official demo setup of NxFilter](http://115.71.232.159/logging,request.jsp), or of course on your own NxFilter installation. If your installation runs on a subdomain with the term "nxfilter" in it, it will work out of the box, otherwise you need to adapt the include URL value to your needs.
