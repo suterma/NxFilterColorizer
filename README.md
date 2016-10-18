@@ -4,7 +4,7 @@ A user script, that colorizes lines on NxFilter HTML request reports by whether 
 # How to install
 1. Install a suitable user script processor for your browser first. 
 
-   For Firefox you can use [Greasemonkey](http://www.greasespot.net/), for Chrome you can use [Tampermonkey](http://tampermonkey.net/).
+   For Firefox you can use [Greasemonkey](https://www.greasespot.net/), for Chrome you can use [Tampermonkey](https://tampermonkey.net/).
 1. Navigatate to the [raw link for NxFilterColorizer.user.js](https://github.com/suterma/NxFilterColorizer/raw/master/NxFilterColorizer.user.js) and load it.
 1. Accept the installation. Ready.
 
